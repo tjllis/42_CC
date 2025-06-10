@@ -16,6 +16,8 @@
 # include <stdlib.h>
 # include <unistd.h>
 # include <limits.h>
+# include "get_next_line.h"
+# include "ft_printf.h"
 
 #define ATOI_SUCCESS 1
 #define ATOI_FAIL 0
