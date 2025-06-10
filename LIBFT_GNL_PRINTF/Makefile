@@ -100,7 +100,7 @@ OBJ_FLAG = .cache_exists
 all: $(NAME)
 
 $(NAME): $(OBJS)
-	ar rcs $(NAME) $(OBJS)
+	@ar rcs $(NAME) $(OBJS)
 
 $(OBJ_DIR)%.o: $(SRC_DIR)%.c | $(OBJ_FLAG)
 	$(CC) $(CFLAGS) -c $< -o $@
