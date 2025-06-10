@@ -19,7 +19,6 @@
 # include <stdlib.h>
 # include <fcntl.h>
 # include <limits.h>
-# include "libft.h"
 
 char	*get_next_line(int fd);
 char	*read_to_line(int fd, char *buffer, char *line);
