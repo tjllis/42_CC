@@ -100,7 +100,7 @@ A solution to the classic synchronization problem using threads and mutexes:
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/tjllis/42_CC.git
 cd 42_Core
 
 # Build all projects
