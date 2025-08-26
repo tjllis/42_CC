@@ -101,7 +101,7 @@ A solution to the classic synchronization problem using threads and mutexes:
 ```bash
 # Clone the repository
 git clone https://github.com/tjllis/42_CC.git
-cd 42_Core
+cd 42_CC
 
 # Build all projects
 make -C FDF
@@ -223,7 +223,7 @@ make re
 ## 📁 Project Structure
 
 ```
-42_Core/
+42_CC/
 ├── FDF/                 # 3D Wireframe Viewer
 ├── PHILOSOPHERS/        # Dining Philosophers Problem
 ├── PUSH_SWAP/          # Stack Sorting Algorithm
