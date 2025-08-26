@@ -4,22 +4,21 @@ A collection of projects from the 42 School curriculum, showcasing various progr
 
 ## 🚀 Projects Overview
 
-## 🛠️ Common Library (LIBFT)
+## 🛠️ [Common Library (LIBFT)](LIBFT_GNL_PRINTF/) - includes ft_printf & get_next_line
 
-All projects include a comprehensive C library with:
+All projects include a comprehensive C library with custom implementations of:
 
-- **String Functions**: `strlen`, `strcpy`, `strcat`, `strcmp`, etc.
-- **Memory Functions**: `malloc`, `free`, `memcpy`, `memset`, etc.
-- **Print Functions**: Custom `printf` implementation
-- **List Functions**: Linked list manipulation utilities
-- **Utility Functions**: `atoi`, `itoa`, `split`, etc.
+- **String Functions**: `ft_strlen`, `ft_strcpy`, `ft_strcat`, `ft_strcmp`, etc.
+- **Memory Functions**: `ft_malloc`, `ft_free`, `ft_memcpy`, `ft_memset`, etc.
+- **List Functions**: `ft_lstnew`, `ft_lstadd_back`, `ft_lstclear`, etc.
+- **Utility Functions**: `ft_atoi`, `ft_itoa`, `ft_split`, etc.
 
-### Enhanced Functions
+### Major Implementations
 
-- `ft_atoi_base()` - Convert string to integer with custom base
-- `ft_atoi_safe()` - Safe integer conversion with error checking
-- `ft_printf()` - Custom printf implementation with all standard specifiers
-- `get_next_line()` - Memory-safe line reading without leaks
+- **`ft_printf`** - Complete printf implementation with all standard specifiers
+- **`get_next_line`** - Memory-safe line reading without memory leaks
+- **`ft_atoi_base`** - Convert string to integer with custom base
+- **`ft_atoi_safe`** - Safe integer conversion with error checking
 
 ### [PUSH_SWAP](PUSH_SWAP/) - Stack Sorting Algorithm
 
