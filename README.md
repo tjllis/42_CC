@@ -4,7 +4,7 @@ A collection of projects from the 42 School curriculum, showcasing various progr
 
 ## 🚀 Projects Overview
 
-## 🛠️ [Common Library (LIBFT) - includes FT_PRINTF & GET_NEXT_LINE](LIBFT_GNL_PRINTF/)
+## 🛠️ [Common Library (LIBFT)](LIBFT_GNL_PRINTF/) - includes FT_PRINTF & GET_NEXT_LINE
 
 All projects include a comprehensive C library with custom implementations of:
 
