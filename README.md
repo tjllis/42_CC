@@ -1,4 +1,4 @@
-# 42 Core Projects
+# 42 Core Curriculum Projects
 
 A collection of projects from the 42 School curriculum, showcasing various programming concepts and algorithms implemented in C.
 
