@@ -256,15 +256,6 @@ make re
 - **C Programming**: [GNU C Library](https://www.gnu.org/software/libc/)
 - **OpenGL**: [OpenGL Documentation](https://www.opengl.org/documentation/)
 
-## 🤝 Contributing
-
-This repository contains educational projects. Feel free to:
-
-- Report bugs or issues
-- Suggest improvements
-- Share your own implementations
-- Ask questions about the algorithms
-
 ## 📄 License
 
 These projects are part of the 42 School curriculum. Please respect the academic integrity policies of your institution.
